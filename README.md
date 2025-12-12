@@ -32,20 +32,34 @@ Streamlit (optional UI)
           📁 Project Structure
 
 AQI-Predictor/
+
 │── data/
+
 │   └── aqi_dataset.csv
+
 │── notebooks/
 │   └── EDA_and_Model.ipynb
+
 │── model/
+
 │   └── aqi_model.pkl
+
 │── src/
+
 │   ├── preprocess.py
+
 │   ├── train.py
+
 │   └── predict.py
+
 │── app.py                   # Streamlit UI (optional)
+
 │── requirements.txt
+
 │── README.md
+
 └── .gitignore
+
 
           🔮 Future Enhancements
 
