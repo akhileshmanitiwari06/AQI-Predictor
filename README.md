@@ -38,6 +38,7 @@ AQI-Predictor/
 │   └── aqi_dataset.csv
 
 │── notebooks/
+
 │   └── EDA_and_Model.ipynb
 
 │── model/
